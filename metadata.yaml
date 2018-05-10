@@ -1,0 +1,29 @@
+_repo: Heilige-ZeitenWeihnachtsbl-tter_28100
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Speidel, Ludwig
+    birthdate: 1830
+    deathdate: 1906
+    gutenberg_agent_id: '33139'
+    url: http://www.gutenberg.org/2009/agents/33139
+description: ''
+gutenberg_bookshelf: DE Prosa
+gutenberg_issued: '2009-02-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28100'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas'
+- !lcc 'PT'
+title: 'Heilige Zeiten
+
+  Weihnachtsblätter'
+url: http://www.gutenberg.org/ebooks/28100
